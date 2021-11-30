@@ -1,4 +1,4 @@
-<h1 align="center">Olá �👋, seja bem vindo ao meu perfil! </h1>
+<h1 align="center">Olá 👋, seja bem vindo ao meu perfil! </h1>
 
   Sou um Desenvolvedor , no momento estou cursando Analise e Desenvolvimento de Sistemas na [FATEC](https://www.fatecsaocaetano.edu.br) conclui diversos cursos, que me ajudaram a desenvolver minha lógica de programação!, já utilizei Java, SQL, Python e diversas outras linguagens. Sou empenhado em me consolidar cada dia mais no meu desenvolvimento como pessoa, sempre aprendendo novas tecnologias 🚀.
 
