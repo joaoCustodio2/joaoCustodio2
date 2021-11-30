@@ -8,6 +8,16 @@
 ### Se conecte comigo:
 [Linkedin]
 
+
+ <div>
+  <img height="160em"   align="center" src="https://github.com/anuraghazra/github-readme-stats/tree/master/api?username=joaoCustodio2&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true">
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoCustodio2&&layout=compact&hide=shell&theme=highcontrast">
+  
+  
+  
+      
+
+  </div>
 <br />
 <br />
 
