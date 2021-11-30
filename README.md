@@ -22,6 +22,16 @@
 
   </div>
 <br />
+
+<div>  
+  <h4 align="right"> Visitantes </h4>
+  <img align="right" src="https://profile-counter.glitch.me/joaoCustodio2/count.svg">
+   </div> 
+    
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
+ 
+</div>
+
 <br />
 
 [Fatec São Caetano do Sul]: https://www.fatecsaocaetano.edu.br
