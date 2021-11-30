@@ -1,9 +1,7 @@
-### Olá, meu nome é João 👋
+<h1 align="center">Olá �👋, seja bem vindo ao meu perfil! </h1>
 
-## Sou um desenvolvedor!
-- 🔭 Atualmente estudando na [Fatec São Caetano do Sul]!
-- 🌱 Estou aprendendo de tudo relacionado a tecnologia
-- 🤔 Procurando por lugares que me porporcionem conhecimento
+  Sou um Desenvolvedor , no momento estou cursando Analise e Desenvolvimento de Sistemas na [FATEC](https://www.fatecsaocaetano.edu.br) conclui diversos cursos, que me ajudaram a desenvolver minha lógica de programação!, já utilizei Java, SQL, Python e diversas outras linguagens. Sou empenhado em me consolidar cada dia mais no meu desenvolvimento como pessoa, sempre aprendendo novas tecnologias 🚀.
+
 
 <br>
  <div>
