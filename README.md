@@ -15,8 +15,8 @@
 <br />
  <h3 align="left">Redes Sociais: </h3>
 <a href="https://www.linkedin.com/in/joão-custódio-5054201b5/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" width="110" /></a>
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="110" align ="center">](mailto:joaocustodio022@gmail.com)
 <a href="https://api.whatsapp.com/send?phone=5511963389366" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" height="30" width="110" /></a>
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="110" align ="center">](mailto:joaocustodio022@gmail.com)
 
 <div>  
   <h4 align="right"> Visitantes </h4>
