@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá, meu nome é João 👋
 
-<!--
-**joaoCustodio2/joaoCustodio2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sou um desenvolvedor!
+- 🔭 Atualmente estudando na [Fatec São Caetano do Sul]!
+- 🌱 Estou aprendendo de tudo relacionado a tecnologia
+- 🤔 Procurando por lugares que me porporcionem conhecimento
 
-Here are some ideas to get you started:
+### Se conecte comigo:
+[Linkedin]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<br />
+
+[Fatec São Caetano do Sul]: https://www.fatecsaocaetano.edu.br
+[linkedin]: https://www.linkedin.com/in/joão-custódio-5054201b5/
