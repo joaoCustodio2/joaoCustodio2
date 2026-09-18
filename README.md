@@ -1,31 +1,19 @@
-<h1 align="center">Olá 👋, seja bem-vindo ao meu perfil!</h1>
+# João Custódio
 
-Sou **Desenvolvedor** com formação em **Análise e Desenvolvimento de Sistemas** e pós-graduação em **Engenharia de Software pela USP**.  
-Tenho mais de **5 anos de experiência** em projetos nacionais e internacionais, com foco em **automação e soluções corporativas** que aumentam a eficiência e a produtividade.
+I build business apps and automations on Power Apps, Power Automate, Dataverse and Power BI, and I write pro-code when low-code isn't enough: React and TypeScript on the front end, Python (FastAPI) and Node.js on the back end, and full-stack apps on Databricks Apps over Lakebase.
 
-🚀 Tecnologias e Experiências:
-- PowerApps: desenvolvimento de aplicativos corporativos  
-- Power Automate: automação de processos empresariais  
-- Salesforce e ERP Infor  
-- C# (.NET Framework / .NET Core)  
-- Python, Java e SQL  
+Most of my work is with teams in the US and India. Based in São Paulo, Brazil (UTC-3).
 
-Sou apaixonado por tecnologia, sempre buscando aprender e aplicar novas ferramentas para criar soluções de impacto.  
+### Stack
 
-<br>
+**Power Platform:** Power Apps (Canvas and Model-Driven), Power Automate, Dataverse, Power Pages, custom connectors, ALM  
+**Pro-code:** React, TypeScript, Python (FastAPI), Node.js, C#/.NET  
+**Data:** Power BI (DAX, data modeling), SQL Server, Databricks, Lakebase (Postgres)  
+**Integration:** SharePoint Online (SPFx), Microsoft Graph, REST APIs
 
-<div>
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=joaoCustodio2&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoCustodio2&layout=compact&hide=shell&theme=highcontrast"/>
-</div>
+MBA in Software Engineering, University of São Paulo (USP).
 
-<br>
+### Contact
 
-<h3 align="left">🌐 Conecte-se comigo:</h3>
-<a href="https://www.linkedin.com/in/joão-custódio-5054201b5/" target="blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" width="110"/>
-</a>
-<a href="https://api.whatsapp.com/send?phone=5511963389366" target="blank">
-  <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" height="30" width="110"/>
-</a>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-custodio)
+[![Email](https://img.shields.io/badge/Email-joaocustodiodev2%40gmail.com-555?style=flat&logo=gmail&logoColor=white)](mailto:joaocustodiodev2@gmail.com)
